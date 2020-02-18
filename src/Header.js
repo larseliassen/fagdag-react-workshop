@@ -16,7 +16,7 @@ const Header = () => {
     }, []);
 
     return (
-        <h1><Link to="/">{numPositions} ledige stillinger 🎉</Link></h1>
+        <h1>{numPositions} ledige stillinger 🎉</h1>
     )
 }
 
