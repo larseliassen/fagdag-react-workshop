@@ -56,7 +56,7 @@ Dette er i svært korte trekk det grunnleggende du trenger å vite om React. I l
 Workshopen består av et sett med oppgaver, som du kan løse lokalt på din egen maskin eller i en CodeSandbox.
 
 ## Code sandbox?
-(https://codesandbox.io/s/github/bekk/react-intro), så får du opp en moderne kode-editor, en live-oppdatert readme og alt du trenger rett i nettleseren.
+(https://codesandbox.io/s/github/larseliassen/fagdag-react-workshop), så får du opp en moderne kode-editor, en live-oppdatert readme og alt du trenger rett i nettleseren.
 
 **Lokalt**
  `git clone git@github.com:bekk/react-intro.git` => `npm install`=> `npm start` 
