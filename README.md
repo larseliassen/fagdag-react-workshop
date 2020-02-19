@@ -95,9 +95,7 @@ return (
         <ul>
             {positions.map(p => (
                 <li>
-                    <Link to={`/post/${p.id}`}>
-                        {p.title} {p.deadline}
-                    </Link>
+                        {p.title} {p.deadline}                    
                 </li>
             ))}
         </ul>
